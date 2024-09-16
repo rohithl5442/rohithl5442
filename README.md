@@ -7,17 +7,24 @@ Hi there, I'm <a href="https://www.linkedin.com/in/rohithkoushal/" target="_blan
 </h3>
 
 <h2 align="center">
-I'm a Aspiring Data Scientist 💻 📊.
+I'm an Aspiring Data Scientist 💻 📊.
 </h2> 
+Driven Computer Science student specializing in Data Science, Software Development, and Project Leadership. I’m currently pursuing my Bachelor's degree in Computer Science at Wayne State University, where I've had the opportunity to lead several high-impact projects for organizations like the U.S. Department of Defense. My technical skill set spans across programming languages such as Python, SQL, Java, C, and C++, and I'm proficient in popular data science libraries like NumPy and PyTorch.
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I have hands-on experience in full-stack development, building scalable web applications using React, Node.js, and SQL to manage large datasets. My passion lies in leveraging data science methodologies to solve real-world problems, and I’m always looking for new ways to enhance my skill set and apply innovative solutions in practical scenarios.
+
+With a strong commitment to continuous learning, I thrive in collaborative environments that challenge me to think critically and creatively. I'm excited about the possibilities that data science and machine learning offer for impactful problem-solving.
+
+I'm currently looking for Internships to apply my skills in the real world.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/rohithkoushal/"><img align="left" src="https://github.com/siddharthgosavi/siddharthgosavi/assets/17062336/833a3be1-3bb2-4fca-a6fe-ee6221f139be" alt="Rohith | LinkedIn" width="21px"/></a>
-
+<a href="https://www.linkedin.com/in/rohithkoushal/"><img align="center" src="https://github.com/siddharthgosavi/siddharthgosavi/assets/17062336/833a3be1-3bb2-4fca-a6fe-ee6221f139be" alt="Rohith | LinkedIn" width="50px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+Email : hl5442@wayne.edu
 
 ## 🔭 I'm currently looking for internships!
 
@@ -26,6 +33,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🌱 I'm currently learning
 
 - Swift Programming
+- Cybersecurity
+- Theoretical Computer Science
 
 ## 💼 Technical Skills
 
