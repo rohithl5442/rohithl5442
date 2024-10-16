@@ -24,7 +24,7 @@ I'm currently looking for Internships to apply my skills in the real world.
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-Email : hl5442@wayne.edu
+Email : rohithsuresh@wayne.edu
 
 ## 🔭 I'm currently looking for internships!
 
